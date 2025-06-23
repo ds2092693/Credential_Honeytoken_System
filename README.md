@@ -39,4 +39,4 @@ credential_honeypot_system/
 - Add IP blocking feature after repeated failures
 
   ## Author-
-  Developed by **Harshit Khanna**, **Divyanshu Sharma**, and **Kshitij Bansal**
+  Developed by  **Divyanshu Sharma**
